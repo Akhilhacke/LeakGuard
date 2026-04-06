@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-500: #10b981;
+}
+
+@layer base {
+  body {
+    background-color: #000;
+    color: #fff;
+  }
+}
